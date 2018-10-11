@@ -1,2 +1,2 @@
 # sorting-algos-in-cpp
-Basic Sorting algorithm implemented in cpp
+## Basic sorting algorithm implemented in cpp
